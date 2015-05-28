@@ -1,0 +1,17 @@
+Changelog for tri
+===========================
+
+0.2 (unreleased)
+----------------
+
+- ToPointsAndSegments class added.
+- ConvexHullIterator added (as alias for TriangleIterator).
+- RegionatedIterator added.
+- Initial VoronoiTransformer added.
+
+
+0.1 (2015-01-21)
+----------------
+
+- Initial version.
+
